@@ -1,1 +1,4 @@
-status: "running"
+{
+  "status": "running",
+  "reason": "Emergency Update: We are fixing a library bug. Be back in 2 hours."
+}
