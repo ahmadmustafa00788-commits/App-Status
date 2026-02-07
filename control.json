@@ -1,7 +1,0 @@
-{
-  "crash": true,
-  "reason": "Maintenance",
-  "min_version": "1.0.0",
-  "latest_version": "1.0.2",
-  "update_url": "https://github.com/USERNAME/REPO/releases/latest"
-}
